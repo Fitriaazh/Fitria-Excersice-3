@@ -1,0 +1,59 @@
+@media screen and (min-width:200px){
+    h1 {
+      color:darkred;
+  }
+  @media screen and (max-width:198px) {
+  
+  }
+  body {
+    background-color: rgb(161, 144, 144);
+   }
+  
+   @font-face {
+     font-family: Fitria Nur Azizah;
+     src: url(Blondeta.ttf);
+   }
+   h1 {
+     font-family: 'Fitria Nur Azizah';
+     font-variant: inherit;
+     font: size 300px;
+     font-weight: 900;
+    color: rgb(39, 27, 32);
+    margin-left: 20px;
+    text-align: center;
+   }
+  #img
+  {
+    border-radius:70% ;
+    text-align: center;
+  }
+  
+   #div-with-bg
+   {
+    text-align: center;
+    background-color: rgb(161, 144, 144);
+    padding-bottom:10px;
+    padding-top:10px;
+   }
+   
+   h3 {
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     text-align: center;
+     color: rgb(143, 41, 97);
+   }
+   p {
+     text-align:center;
+   }
+  
+   img {
+     border-radius: 70%;
+     text-align:center;
+   }
+
+  #div-with-pict {
+    text-align: center;
+  }
+  #div-container
+  {
+    text-align: center;
+  }
